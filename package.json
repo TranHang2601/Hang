@@ -8,8 +8,8 @@
     "@steveeeie/react-page-transition": "1.3.0",
     "react": "18.0.0",
     "react-dom": "18.0.0",
-    "react-router": "6.3.0",
-    "react-router-dom": "6.3.0",
+    "react-router": "6.30.2",
+    "react-router-dom": "6.30.2",
     "react-scripts": "5.0.1",
     "react-transition-group": "4.4.2",
     "styled-components": "5.3.5"
